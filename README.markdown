@@ -1,3 +1,10 @@
+Deprecated
+==========
+
+Please use: http://assets.okfn.org/themes/okfn/
+
+---
+
 The files in this repo are meant to be used as a starting point for all new OKFN themed websites.
 These files consist of all default Bootstrap (v2) files, plus a stylesheet (okfn-common.css) to add the OKFN branding.
 
